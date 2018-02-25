@@ -1,4 +1,4 @@
-<nav>
+<nav class="black">
 	<a href="" data-activates="menu" class="button-collpase"><i class="material-icons">menu</i></a>
 </nav>
 
