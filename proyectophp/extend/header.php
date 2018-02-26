@@ -11,12 +11,16 @@
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<link rel="stylesheet" href="../materialize/css/materialize.min.css">
 	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-	<script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+	<link rel="stylesheet"  href="../cdn/sweetalert2.css">
+	<script
+	  src="https://code.jquery.com/jquery-3.3.1.min.js"
+	  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+	  crossorigin="anonymous"></script>
 	<script src="../cdn/sweetalert2.js"></script>
-	<script src="../materialize/js/materialize.min.css"></script>
+	<script src="../materialize/js/materialize.min.js"></script>
 
 	<!-- para generar espacio a la derecha del menu para el contenido -->
-	<style type="text/css">
+	<style media="screen">
 		  header, main, footer {
       padding-left: 300px;
     }
